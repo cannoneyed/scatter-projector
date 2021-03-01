@@ -34,7 +34,7 @@
     "webpack-dev-server": "^3.4.1"
   },
   "dependencies": {
-    "three": "^0.106.2",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.102.2"
   },
   "prettier": {
